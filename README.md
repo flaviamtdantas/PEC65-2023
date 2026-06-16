@@ -2,7 +2,7 @@
 
 An open letter on the financial autonomy of the Central Bank of Brazil.
 
-**Read the letter:** [published page](https://YOUR-USERNAME.github.io/manifesto-pec65/) · **Sign it:** [sign-on form](https://docs.google.com/forms/d/e/1FAIpQLSdNgTlMcwlmj4mZEE4GFz4-d7A2cHrRdo5zX6zDGaEi6SXu1w/viewform?usp=header)
+**Read the letter:** [published page](https://YOUR-USERNAME.github.io/manifesto-pec65/) · **Sign it:** [sign-on form](FORM_LINK_HERE)
 
 Authored by Flavia Dantas (SUNY Cortland) and Pedro Paulo Zahluth Bastos (UNICAMP), June 3, 2026.
 
