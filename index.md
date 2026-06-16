@@ -3,9 +3,9 @@ layout: default
 title: Manifesto Against PEC 65/2023
 ---
 
-> **Researchers and scholars are invited to sign this open letter.** [**Add your signature here →**](FORM_LINK_HERE)
+> **Researchers and scholars are invited to sign this open letter.** [**Add your signature here →**]((https://docs.google.com/forms/d/e/1FAIpQLSdNgTlMcwlmj4mZEE4GFz4-d7A2cHrRdo5zX6zDGaEi6SXu1w/viewform?usp=header))
 >
-> Authored by Flavia Dantas (SUNY Cortland) and Pedro Paulo Zahluth Bastos (UNICAMP). A Portuguese version is available [here](PORTUGUESE_LINK_HERE).
+> Authored by Flavia Dantas (SUNY Cortland) and Pedro Paulo Zahluth Bastos (UNICAMP). A Portuguese version is available [here]((https://www.change.org/pec65-2023)).
 
 ---
 
@@ -28,6 +28,59 @@ Moreover, it withdraws from the Treasury and from the public accounts a revenue 
 - The opening of a public debate on the mechanisms through which the BCB answers to society in its role as regulator and supervisor of the banking system.
 
 ---
+**Signatures:**
+
+⁠Luiz Carlos Bresser-Pereira - FGV, ex-Ministro da Fazenda
+⁠Luiz Gonzaga Belluzzo - Unicamp, ex-Secretário de política econômica do Ministério da Fazenda 
+⁠Flavia Dantas – SUNY – Cortland
+⁠Pedro Paulo Zahluth Bastos  - Unicamp
+⁠Élida Graziane  - FGV e Procuradora do Ministério Público de Contas do Estado de São Paulo
+⁠Paulo Nogueira Batista Jr.  – Economista
+⁠Leda Paulani – USP
+⁠Ladislau Dowbor – PUC-SP
+⁠Maria de Lourdes Rollemberg Mollo – UNB
+⁠Haroldo Silva- Presidente do Corecon – SP
+⁠Isabel Busato – UFRJ 
+André Modenesi – UFRJ
+⁠Lena Lavinas – UFRJ
+⁠Luiz Fernando de Paula – UFRJ
+⁠Vanessa Petrelli Corrêa  - UFU
+⁠Carlos Aguiar de Medeiros – UFRJ
+⁠Rosa Maria Marques  - PUC-SP
+Simone Deos - Unicamp
+⁠Antônio Prado – Vice-Presidente do Corecon – SP
+⁠Adriana Amado - UNB
+⁠Pedro Rossi – Unicamp 
+ ⁠Gilberto Bercovicci – USP
+ ⁠Larissa Naves de Deus Dornelas - UFPR
+ ⁠Marco Antônio Rocha - Unicamp
+ ⁠Juliane Furno – UFF
+Guido Mantega – ex-Ministro da Fazenda
+José Sergio Gabrielli de Azevedo – ex-presidente da Petrobras
+Alfredo Saad-Filho – Queen's University Belfast
+Ceci Vieira Juruá – coordenadora do Centro Celso Furtado
+Luis Nassif – jornalista (GGN)
+Evilásio Salvador – UnB
+Ricardo Carneiro – Unicamp
+Adriana Nunes Ferreira – Unicamp
+Célio Hiratuka – Unicamp
+Jennifer Hermann – UFRJ
+Paulo Sérgio Fracalanza – Unicamp
+Denise Lobato Gentil – UFRJ
+Ricardo Bielschowsky – UFRJ
+Cláudio Dedecca – Unicamp
+José Celso Cardoso Jr. – Ipea
+Frederico Mazzucchelli – Unicamp
+José Luís Oreiro – UnB
+Maria Lúcia Fattorelli – Auditoria Cidadã da Dívida
+Carlos Ocké-Reis – Ipea
+Ruth Helena Dweck – UFF
+Marco Crocco – UFMG (Cedeplar)
+Adhemar Mineiro – Dieese
+Paulo Kliass – carreira de Estado
+David Deccache – economista
+Kaio Pimentel – Cecon-Unicamp
+Carmen Feijó - UFRJ
 
 ## I. Whose Interests Does PEC 65/2023 Serve? The Financial Sector and the Capture of the State
 
@@ -111,3 +164,4 @@ STRECK, Lenio. *Nota Técnica sobre a (in)constitucionalidade da PEC n.º 65/202
 [^2]: See Bastos (2026).
 [^3]: As argued by Lenio Streck (2026).
 [^4]: See Aklin, Kern & Negre (2021).
+
